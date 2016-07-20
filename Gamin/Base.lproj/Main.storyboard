@@ -61,19 +61,23 @@
                                 </connections>
                             </button>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="capupa.png" id="pwL-9T-pHU">
-                                <rect key="frame" x="15" y="118" width="290" height="71"/>
+                                <rect key="frame" x="15" y="122" width="290" height="67"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="8Sx-Hw-P1M">
                                 <rect key="frame" x="20" y="471" width="280" height="39"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.17254901959999999" green="0.53725490200000003" blue="0.85490196080000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.17647058823529413" green="0.26666666666666666" blue="0.52549019607843139" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="16"/>
                                 <color key="tintColor" red="0.1681666544" green="0.53514492179999995" blue="0.85490196080000003" alpha="0.4524515086" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Log in with Facebook">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="facebook.png" id="l7B-bC-5Ee">
+                                <rect key="frame" x="20" y="471" width="40" height="39"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
@@ -576,6 +580,7 @@
         <image name="capupa.png" width="554" height="123"/>
         <image name="defaultPhoto" width="320" height="320"/>
         <image name="discover" width="30" height="30"/>
+        <image name="facebook.png" width="512" height="512"/>
         <image name="monkey_head-2.jpg" width="240" height="240"/>
         <image name="mychallengesicon" width="30" height="30"/>
         <image name="partyselfie.png" width="343" height="600"/>

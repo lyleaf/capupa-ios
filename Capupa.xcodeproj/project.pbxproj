@@ -10,6 +10,8 @@
 		51D4B852827ED0DFBB77923B /* Pods_Gamin.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25DA5DC5237F668FB3A989F8 /* Pods_Gamin.framework */; };
 		6E6BB79A9E609316C1325C18 /* Pods_GaminUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97746D09CB414C656AE4BDD8 /* Pods_GaminUITests.framework */; };
 		D36DF28CF593EBF97E354416 /* Pods_GaminTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9240D4760138AA3BDADB907F /* Pods_GaminTests.framework */; };
+		ED7FFDFF1D3FFFF600127644 /* facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = ED7FFDFE1D3FFFF600127644 /* facebook.png */; };
+		ED7FFE011D4000C900127644 /* landingapp.png in Resources */ = {isa = PBXBuildFile; fileRef = ED7FFE001D4000C900127644 /* landingapp.png */; };
 		EDA829E01D312A1200B1A2B5 /* SportsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA829DF1D312A1200B1A2B5 /* SportsList.swift */; };
 		EDA829E21D312A4800B1A2B5 /* SportsListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA829E11D312A4800B1A2B5 /* SportsListViewController.swift */; };
 		EDA829E41D313CDE00B1A2B5 /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA829E31D313CDE00B1A2B5 /* CreateAccountViewController.swift */; };
@@ -75,6 +77,8 @@
 		9240D4760138AA3BDADB907F /* Pods_GaminTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GaminTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		97746D09CB414C656AE4BDD8 /* Pods_GaminUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GaminUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6F6C64917057BAC34B522DF /* Pods-Gamin.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Gamin.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Gamin/Pods-Gamin.debug.xcconfig"; sourceTree = "<group>"; };
+		ED7FFDFE1D3FFFF600127644 /* facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = facebook.png; sourceTree = "<group>"; };
+		ED7FFE001D4000C900127644 /* landingapp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = landingapp.png; sourceTree = "<group>"; };
 		EDA829DF1D312A1200B1A2B5 /* SportsList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SportsList.swift; sourceTree = "<group>"; };
 		EDA829E11D312A4800B1A2B5 /* SportsListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SportsListViewController.swift; sourceTree = "<group>"; };
 		EDA829E31D313CDE00B1A2B5 /* CreateAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
@@ -172,8 +176,10 @@
 		EDDC3F101D3821EF004CBCDB /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				ED7FFDFE1D3FFFF600127644 /* facebook.png */,
 				EDDC3F111D382202004CBCDB /* Rock-Climbing-Wallpaper-HD.jpg */,
 				EDDC3F1B1D38275E004CBCDB /* signinFacebook.png */,
+				ED7FFE001D4000C900127644 /* landingapp.png */,
 				EDA9C2D01D3E873D00A8F4BC /* Jul 19, 2016 04-54-33.png */,
 				EDDC3F131D38224C004CBCDB /* capupa.png */,
 				EDA9C2D41D3E884000A8F4BC /* partyselfie.png */,
@@ -375,6 +381,7 @@
 				EDA9C2D71D3E93B200A8F4BC /* pierre.png in Resources */,
 				EDDC3F1C1D38275E004CBCDB /* signinFacebook.png in Resources */,
 				EDFBE9611D2F04EC008EC8A7 /* LaunchScreen.storyboard in Resources */,
+				ED7FFDFF1D3FFFF600127644 /* facebook.png in Resources */,
 				EDDC3F1E1D382A4E004CBCDB /* ZW4QC-2.png in Resources */,
 				EDDC3F181D3826AF004CBCDB /* loginfacebook.png in Resources */,
 				EDDC3F121D382202004CBCDB /* Rock-Climbing-Wallpaper-HD.jpg in Resources */,
@@ -384,6 +391,7 @@
 				EDFBE95E1D2F04EC008EC8A7 /* Assets.xcassets in Resources */,
 				EDFBE95C1D2F04EC008EC8A7 /* Main.storyboard in Resources */,
 				EDA9C2D51D3E884000A8F4BC /* partyselfie.png in Resources */,
+				ED7FFE011D4000C900127644 /* landingapp.png in Resources */,
 				EDCFB7021D39132F0093709F /* GoogleService-Info.plist in Resources */,
 				EDDC3F161D3823D3004CBCDB /* Black-windows_542931.jpg in Resources */,
 				EDCFB7081D3AE1A50093709F /* art.jpeg in Resources */,
