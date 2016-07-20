@@ -1,8 +1,6 @@
 # capupa-ios
-Enjoy your travel in a playful way!
+Capupa is a platform to help you enjoy your travel in a playful way!
 
-using swift + firebase
+It's based on swift and firebase, integrating Google Maps. 
 
-
-Capupa is a platform t
 ![alt tag](https://github.com/lyleaf/capupa-ios/blob/master/Gamin/landingapp.png)
